@@ -20,6 +20,11 @@ Using the Twitter API as the main source for data , a list of keywords are used 
 
 ### Exploratory Data Analysis (EDA)
 
+The distribution of tweets across the different stages ( before , during and after ) the declaration of a lockdown.
+
+![Image of Tweet Distribution in Lagos](https://octodex.github.com/images/yaktocat.png)
+
+
 ### Modelling
 
 ### Model Output Analysis 
