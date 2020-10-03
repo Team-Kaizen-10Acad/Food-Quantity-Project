@@ -22,7 +22,7 @@ Using the Twitter API as the main source for data , a list of keywords are used 
 
 The distribution of tweets across the different stages ( before , during and after ) the declaration of a lockdown.
 
-https://github.com/Team-Kaizen-10Acad/Food-Quantity-Project/plots/count_J.png)
+![Image of Tweet Distribution in Johannesburg](https://github.com/Team-Kaizen-10Acad/Food-Quantity-Project/plots/count_J.png)
 ![Image of Tweet Distribution in Lagos](https://github.com/Team-Kaizen-10Acad/Food-Quantity-Project/plots/Lagos.png)
 ![Image of Tweet Distribution in Nairobi](https://github.com/Team-Kaizen-10Acad/Food-Quantity-Project/plots/Count Nairobi.png)
 
